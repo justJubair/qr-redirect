@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/qr",
+      "destination": "https://www.linkedin.com/in/jubairdev", // Replace with your initial URL
+      "permanent": false // 302 temporary redirect
+    }
+  ]
+}
