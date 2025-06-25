@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/qr",
-      "destination": "https://sirinvodka.com",
+      "destination": "http://31.97.65.53:4000/contest-form",
       "permanent": false
     }
   ]
